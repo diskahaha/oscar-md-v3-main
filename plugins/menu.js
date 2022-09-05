@@ -179,17 +179,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage,
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'                『 𝑱𝑨𝑹𝑶𝑻 𝑶𝑭𝑭𝑪 』',
+                            hydratedFooterText:'                『 Naufal Muflih 𝑶𝑭𝑭𝑪 』',
                             hydratedButtons: [{
                               urlButton: {
                                     displayText: '𝙂𝙧𝙤𝙪𝙥 🌏',
-                                    url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+                                    url: 'https://chat.whatsapp.com/'
                                 }
                                 
                             }, {
                               urlButton: {
                                     displayText: '𝙔𝙤𝙪𝙏𝙪𝙗𝙚 📺',
-                                    url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+                                    url: 'https://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA'
                                 }
                             }, {
                                 quickReplyButton: {
