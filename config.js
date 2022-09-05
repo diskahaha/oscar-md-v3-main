@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.owner = [
-  ['6285850539404'],
-  ['6285850539404'],
-  ['6285850539404', 'Owner', true]
+  ['6289601124991'],
+  ['6289601124991'],
+  ['6289601124991', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
@@ -20,7 +20,7 @@ global.saweria = 'https://saweria.co/jarotoffc'
 global.pulsa = '085850539404'
 global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
 global.mods = [] // Want some help?
-global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
+global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 20.000\nMAKSIMAL 2 GRUP\n》2 BULAN 30.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 50.000\nMAKSIMAL 2 GRUP'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
