@@ -56,7 +56,7 @@ const defaultMenu = {
 ┆⬡ *Premium* : Ⓟ
 ┆⬡ *Uptime:* : %uptime (%muptime)
 ┆⬡ *Run Bot* : Okteto/heroku
-┆⬡ *Ig Owner* : instagram.com/oscarbotz_
+┆⬡ *Ig Owner* : instagram.com/nauffhdky
 ┗─────────────────⬣
 %readmore`.trimStart(),
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
@@ -165,7 +165,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    /*conn.sendHydrated(m.chat, `${global.anu}`, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ', 'Website🌟', '', '', [
+    /*conn.sendHydrated(m.chat, `${global.anu}`, text.trim(), 'Ⓟ premium | Ⓛ limit', null, 'https://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA', 'Website🌟', '', '', [
       ['Donate🌟', '/donasi'],
       ['Sewa Bot🌟', '/sewa'],
       ['Owner🌟', '/owner']
