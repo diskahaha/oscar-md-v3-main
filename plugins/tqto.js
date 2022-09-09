@@ -14,22 +14,7 @@ Terimakasih Juga Untuk Kang Banned:
 ➸ @${'0'.split('@')[0]}
 
 ──────────────────────
-• God
-• My ortu
-• Zivfurr / Ziv San ( Me )
-• Nurutomo
-• Adiwajshing
-• Ariffb
-• Amel
-• BochilGaming
-• Ridwan
-• Jarot
-• Natx-c
-• Kriz offc
-• Mursid
-• Alpii
-• Penyedia Layanan API
-• Orang-orang yang Berdonasi
+• 𝕭𝖔𝖙
 ──────────────────────`
 await conn.sendButtonLoc(m.chat, await conn.resize('https://telegra.ph/file/0e265e801d892a340e877.png', 300, 300),  tqto, `Ini Ucapan Terima Kasih Untuk Orang Nya Telah Berpatisipasi
 
