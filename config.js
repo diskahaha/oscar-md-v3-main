@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.owner = [
-  ['6289601124991'],
-  ['6289601124991'],
-  ['6289601124991', 'Owner', true]
+  ['6282114579635'],
+  ['6282114579635'],
+  ['6282114579635', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
@@ -14,10 +14,10 @@ global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga
 global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
-global.instagram = 'https://www.instagram.com/nauffhdky/'
-global.dana = '089601124991'
-global.saweria = 'https://saweria.co/naufalmuflih'
-global.pulsa = '089601124991'
+global.instagram = 'https://www.instagram.com/F'
+global.dana = '082114579635'
+global.saweria = '-'
+global.pulsa = '082114579635'
 global.yt = 'https://www.youtube.com/channel/UC1esKQw-DKM5Xa5hF7vqdGA'
 global.mods = [] // Want some help?
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 20.000\nMAKSIMAL 2 GRUP\n》2 BULAN 30.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 50.000\nMAKSIMAL 2 GRUP'
@@ -54,8 +54,8 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = '@Wa-𝐌𝐃'
-  var sticker_author = 'Wa_botz'
+  var sticker_name = '@⫹⫺'
+  var sticker_author = '𝕭𝖔𝖙 • [A]ndii ∅༢࿔ྀ'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -72,7 +72,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '©Wa-𝐌𝐝'
+global.wm = '⫹⫺ 𝕭𝖔𝖙 • [A]ndii ∅༢࿔ྀ'
 
 global.anu = 'https://telegra.ph/file/054b6fe59958df5ad6b1f.jpg'
 
